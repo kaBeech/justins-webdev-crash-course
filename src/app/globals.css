@@ -183,6 +183,14 @@ a {
   margin-bottom: 1rem;
 }
 
+.marginBottom2 {
+  margin-bottom: 2rem;
+}
+
+.marginBottom4 {
+  margin-bottom: 4rem;
+}
+
 .marginBottomAuto {
   margin-bottom: auto;
 }
