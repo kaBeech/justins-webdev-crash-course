@@ -6,7 +6,7 @@ interface SocialLinksProps {
 
 const SocialLinks = (props: SocialLinksProps) => {
     return (
-        <div className={props.class + " " + "textBigger flex gap2 wrap"}>
+        <div className={props.class + " " + "flex gap2 wrap"}>
             {/* These icons are made using a Nerd Font */}
             <a href="https://www.linkedin.com/in/justinjamesshort/"></a>
             <a href="http://soundcloud.com/holdyourcomposer"></a>
