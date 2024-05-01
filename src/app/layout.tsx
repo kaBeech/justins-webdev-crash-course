@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+// import { Inter } from "next/font/google";
+import localFont from "next/font/local";
+import Footer from "../components/footer";
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+// const inter = Inter({ subsets: ["latin"] });
+const caskaydiaCove = localFont({ src: "./CaskaydiaCoveNerdFontPropo-Regular.ttf" });
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -16,7 +19,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      {/* <body className={inter.className}> */}
+      <body className={caskaydiaCove.className}>
+        {children}
+        <Footer />
+      </body>
     </html>
   );
 }
