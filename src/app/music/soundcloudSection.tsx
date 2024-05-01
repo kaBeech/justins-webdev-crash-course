@@ -1,5 +1,7 @@
 import React from 'react';
 
+// Sometimes it's nice to put components in the same folder as the page they are used in!
+
 const SoundCloudSection = () => {
   return (
     <div>
