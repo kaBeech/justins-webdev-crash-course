@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <h1>
-        Welcome to Justin's Music Site!
+        Welcome to Justin’s Music Site!
       </h1>
       <p className="marginTop4 marginBottomAuto textGiant"></p>
     </main>
