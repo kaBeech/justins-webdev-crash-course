@@ -8,6 +8,8 @@ We went over a lot today so it's normal to feel a little disoriented at first.
 
 Take a look around, read the comments, make sure everything still makes sense, then start in on adding some more Components.
 
+Oh, remember to do all the basic HTML stuff like the title and the favicon too =)
+
 If you have any questions, let me know!
 
 (The remainder of this README is the default Next.js README. It has helpful information about how to run the project and where you might want to go next. Have fun!)
