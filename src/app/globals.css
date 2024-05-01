@@ -125,6 +125,10 @@ a {
   flex-direction: column;
 }
 
+.wrap {
+  flex-wrap: wrap;
+}
+
 .justifyStart {
   justify-content: start;
 }
