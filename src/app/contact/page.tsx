@@ -1,3 +1,4 @@
+import SocialLinks from "@/components/socialLinks";
 import styles from "../page.module.css";
 
 export default function Contact() {
@@ -6,6 +7,9 @@ export default function Contact() {
       <h1>
         Contact
       </h1>
+      <section className="marginTop8 marginBottomAuto textLarge">
+        <SocialLinks />
+      </section>
     </main>
   );
 }

@@ -171,6 +171,14 @@ a {
   margin-top: 4rem;
 }
 
+.marginTop8 {
+  margin-top: 8rem;
+}
+
+.marginTopAuto {
+  margin-top: auto;
+}
+
 .marginBottom1 {
   margin-bottom: 1rem;
 }
@@ -189,6 +197,10 @@ a {
 
 .textBigger {
   font-size: 1.4em;
+}
+
+.textLarge {
+  font-size: 2rem;
 }
 
 .textGiant {
