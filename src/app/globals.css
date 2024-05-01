@@ -189,6 +189,14 @@ a {
   margin-bottom: auto;
 }
 
+.marginLeft2 {
+  margin-left: 2rem;
+}
+
+.marginRight2 {
+  margin-right: 2rem;
+}
+
 .textBigger {
   font-size: 1.4em;
 }
