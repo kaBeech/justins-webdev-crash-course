@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Notes For Justin
+
+I've left you a few helpful comments and a challenge for you to complete somewhere in the code.
+
+We went over a lot today so it's normal to feel a little disoriented at first.
+
+Take a look around, read the comments, make sure everything still makes sense, then start in on adding some more Components.
+
+If you have any questions, let me know!
+
+(The remainder of this README is the default Next.js README. It has helpful information about how to run the project and where you might want to go next. Have fun!)
+
 ## Getting Started
 
 First, run the development server:
@@ -18,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load fonts.
 
 ## Learn More
 
