@@ -7,9 +7,7 @@ export default function Contact() {
       <h1>
         Contact
       </h1>
-      <section className="marginTop8 marginBottomAuto textLarge">
-        <SocialLinks />
-      </section>
+      <SocialLinks class="marginTop8 marginBottomAuto textLarge" />
     </main>
   );
 }

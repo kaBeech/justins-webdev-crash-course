@@ -195,14 +195,14 @@ a {
   margin-right: 2rem;
 }
 
-.textBigger {
-  font-size: 1.4em;
-}
-
 .textLarge {
   font-size: 2rem;
 }
 
 .textGiant {
   font-size: 4rem;
+}
+
+.textBigger {
+  font-size: 1.4em;
 }
