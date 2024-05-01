@@ -177,10 +177,22 @@ a {
   margin-top: 2rem;
 }
 
+.marginTop4 {
+  margin-top: 4rem;
+}
+
 .marginBottom1 {
   margin-bottom: 1rem;
 }
 
+.marginBottomAuto {
+  margin-bottom: auto;
+}
+
 .textBigger {
   font-size: 1.4em;
+}
+
+.textGiant {
+  font-size: 4rem;
 }

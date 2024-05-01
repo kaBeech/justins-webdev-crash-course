@@ -6,6 +6,7 @@ export default function Home() {
       <h1>
         Welcome to Justins Music Site!!!
       </h1>
+      <p className="marginTop4 marginBottomAuto textGiant"></p>
     </main>
   );
 }
