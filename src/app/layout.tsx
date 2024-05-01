@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
-// import { Inter } from "next/font/google";
 import localFont from "next/font/local";
 import Footer from "../components/footer";
+import NavBar from "../components/navBar"
 import "./globals.css";
 
-// const inter = Inter({ subsets: ["latin"] });
 const caskaydiaCove = localFont({ src: "./CaskaydiaCoveNerdFontPropo-Regular.ttf" });
 
 export const metadata: Metadata = {
@@ -19,8 +18,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      {/* <body className={inter.className}> */}
       <body className={caskaydiaCove.className}>
+        <NavBar />
         {children}
         <Footer />
       </body>

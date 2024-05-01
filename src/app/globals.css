@@ -125,12 +125,28 @@ a {
   flex-direction: column;
 }
 
+.justifyStart {
+  justify-content: start;
+}
+
 .justifyEnd {
   justify-content: end;
 }
 
+.justifyBetween {
+  justify-content: space-between;
+}
+
+.justifyAround {
+  justify-content: space-around;
+}
+
 .justifyEvenly {
   justify-content: space-evenly;
+}
+
+.justifyCenter {
+  justify-content: center;
 }
 
 .alignCenter {
@@ -147,6 +163,14 @@ a {
 
 .gap2 {
   gap: 2rem;
+}
+
+.gap3 {
+  gap: 3rem;
+}
+
+.marginTop1 {
+  margin-top: 2rem;
 }
 
 .textBigger {
