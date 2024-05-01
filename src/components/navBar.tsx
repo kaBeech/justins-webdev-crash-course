@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 const NavBar = () => {
     return (
-        <nav className='marginTop1 flex justifyCenter gap3 wrap'>
+        <nav className='marginTop2 flex justifyCenter gap3 wrap'>
             {/* Use <Link> tags to link to pages on your own site */}
             {/* Use <a> tags to link to pages elsewhere on the web */}
             <Link href="/">Home</Link>
